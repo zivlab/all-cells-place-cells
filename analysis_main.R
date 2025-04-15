@@ -14,9 +14,8 @@ library("RColorBrewer")
 library("lsa")
 
 # Enter your designated path for the data
-remote_path = "Y:/livneh/itayta/AllActiveCells/new_f/raw_data/"
-#base_path = "C:\\Users\\itayta\\Desktop\\raw_data\\raw_data_07_02_23"
-base_path = "/Users/itayta/Downloads/yaniv_place_cells_project/raw_data/raw_data_07_02_23"
+
+base_path = // Enter your root data path
 
 
 
